@@ -1,0 +1,18 @@
+{
+  "name": "pmr-quizz",
+  "version": "0.1.0",
+  "description": "Quizz game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "ws",
+    "quizz",
+    "pmr"
+  ],
+  "author": "Pedro Relvas",
+  "license": "MIT"
+}
